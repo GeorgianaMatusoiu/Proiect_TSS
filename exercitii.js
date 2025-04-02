@@ -113,3 +113,4 @@ window.Ex1 = Ex1;
 const ex1 = new Ex1();
 
 ex1.butoane();
+
