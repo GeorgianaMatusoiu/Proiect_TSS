@@ -32,7 +32,6 @@ class Ex1 {
     }
 
 
-
     verificare(c, r, d, a, b) {
         let [a_corect, b_corect] = this.rezolvare(c, r, d) || [null, null];
 
