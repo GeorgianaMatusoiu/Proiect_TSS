@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="utf-8">
+    <title>Exercitii</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- <header>
+        <button onclick="logout()">Logout</button>
+    </header> -->
+    <main>
+        <div id="pb1">
+            <h2>PROBLEMA</h2>
+            <p> Radu împarte un număr natural la un alt număr natural și obține câtul
+                <input type="number" id="cat" size="2"
+                    onkeydown="return event.keyCode !== 189 && event.keyCode !== 109 && event.keyCode !== 69 && event.keyCode !== 188 && event.keyCode !== 190 && event.keyCode !== 108" />
+                și restul
+                <input type="number" id="rest" size="2"
+                    onkeydown="return event.keyCode !== 189 && event.keyCode !== 109 && event.keyCode !== 69 && event.keyCode !== 188 && event.keyCode !== 190 && event.keyCode !== 108" />.
+            </p>
+            <p>
+                Să se afle cele două numere, știind că scăzând din deîmpărțit împărțitorul obținem
+                <input type="number" id="diferenta" size="2"
+                    onkeydown="return event.keyCode !== 189 && event.keyCode !== 109 && event.keyCode !== 69" />.
+            </p>
+            <label for="rasp-pb1">Răspuns:</label> a =
+            <input type="number" id="rasp-a" size="2"
+                onkeydown="return event.keyCode !== 189 && event.keyCode !== 109 && event.keyCode !== 69" /> b =
+            <input type="number" id="rasp-b" size="2"
+                onkeydown="return event.keyCode !== 189 && event.keyCode !== 109 && event.keyCode !== 69" /> 
+            <h5>Restricții:</h5>
+            <ol>
+                <li>Câtul, restul și diferența trebuie să fie numere naturale.</li>
+                <li>Câtul trebuie sa fie un număr natural nenul și diferit de 1.</li>
+                <li>Diferența numerelor împărțită la cât trebuie să fie mai mare decât restul.</li>
+                <li>Diferența trebuie să fie mai mare decât restul.</li>
+                <li>Diferența dintre diferența numerelor și rest trebuie să fie un multiplu al predecesorului câtului.</li>
+            </ol>
+            <button id="trimite">Trimite</button>
+            <!-- <br><br> -->
+            <button id="rasp-corect">Vezi răspuns</button>
+        </div>
+        <!-- <script src="exercitii.js" defer></script> -->
+        <!-- <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script> -->
+
+        <!-- TODO: Add SDKs for Firebase products that you want to use
+             https://firebase.google.com/docs/web/setup#available-libraries -->
+        <!-- <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script> -->
+
+        <!-- Our script must be loaded after firebase references -->
+        <script src="exercitii.js"></script>
+        <div id="custom-alert">
+            <p id="alert-message">Date invalide! Recitiți restricțiile.</p>
+            <button onclick="closeAlert()">OK</button>
+        </div>
+        
+    </main>
+</body>
+
+</html>
