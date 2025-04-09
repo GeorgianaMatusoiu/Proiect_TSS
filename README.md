@@ -4,6 +4,6 @@ Link documentație: https://docs.google.com/document/d/1JHmMIXkeTub5RNWr4E6nAu0N
 
 Link graf - funcția "rezolvare": https://drive.google.com/file/d/1akzg6PcfwtzWPnlGfW0buxuqBFLuAQq-/view?usp=drive_link
 
-Link graf - funcția "verificare":
+Link graf - funcția "verificare": https://drive.google.com/file/d/1Ct3ueQ8KrO430a3qkA3b5vzz2oR60FdX/view?usp=drive_link
 
 Link graf cauză-efect: https://drive.google.com/file/d/10kE4WO49XLH1Mj7V-pVkVXMdsFlpAExp/view?usp=drive_link
