@@ -66,4 +66,5 @@ class Ex1 {
     }
 }
 
-module.exports = Ex1;
+// module.exports = Ex1;
+export default Ex1;

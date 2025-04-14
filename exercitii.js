@@ -2,7 +2,6 @@ class Ex1 {
     constructor() {
         console.log('ex1');
     }
-
     static count = 0;
     static rezultat_corect1 = -100000;
     static rezultat_corect2 = -100000;
@@ -17,8 +16,7 @@ class Ex1 {
 
         return [a, b];
     }
-
-
+    
     verificare(c, r, d, a, b) {
         let [a_corect, b_corect] = this.rezolvare(c, r, d) || [null, null];
 

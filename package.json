@@ -2,6 +2,7 @@
   "name": "proiect_tss",
   "version": "1.0.0",
   "main": "exercitii-test.js",
+  "type": "module",
   "scripts": {
     "test": "mocha spec"
   },

@@ -1,4 +1,4 @@
-import Ex1 from "../exercitii-test.js";
+import Ex1 from "../exercitii-test.mjs";
 import { expect } from "chai";
 
 const myObj = new Ex1();
