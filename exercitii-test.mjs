@@ -19,7 +19,7 @@ class Ex1 {
         // ) {
         //     return ["input invalid", null];
         // }
-
+        
         if (c < 2) return ["input invalid", null];
         if (d <= r) return ["input invalid", null];
         if (r < 0) return ["input invalid", null];

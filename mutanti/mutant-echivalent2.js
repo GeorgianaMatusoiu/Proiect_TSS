@@ -9,7 +9,6 @@ class Ex1 {
     static rezultat_corect3 = -100000;
 
     rezolvare(c, r, d) {
-        // Stryker disable next-line ConditionalExpression
         if (c <= 1) return ["input invalid", null];
         if (d <= r) return ["input invalid", null];
         if (r < 0) return ["input invalid", null];

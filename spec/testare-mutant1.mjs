@@ -1,5 +1,5 @@
 // import { expect } from "chai";
-// import Ex1 from "../mutanti/mutant1.js"; 
+// import Ex1 from "../exercitii-test.mjs";
 
 // const myObj = new Ex1();
 

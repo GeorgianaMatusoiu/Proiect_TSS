@@ -139,7 +139,6 @@ describe("Teste speciale pentru mutanți Stryker", function () {
     expect(myObj.rezolvare(3, 1, 5)).to.not.deep.equal(["input invalid", null]); 
   });
 });
-
 describe("Ucidem mutantii supravietuitori", function () {
   const myObj = new Ex1();
   describe("Validări în metoda rezolvare", () => {
@@ -272,4 +271,5 @@ describe("Ucidem mutantii supravietuitori", function () {
   myObj.rezolvare = original;
 });
 });  
+
 
