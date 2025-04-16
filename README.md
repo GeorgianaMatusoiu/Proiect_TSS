@@ -1,3 +1,5 @@
+Proiect la Testarea Sistemelor Software - Testare unitară în JavaScript
+
 Membri (grupa 311): Cazacu Brîndușa-Alexandra, Dumitrașcu Elena-Alina, Mătușoiu Gheorghița-Georgiana, Vladu Daniela-Gabriela
 
 Link documentație: https://docs.google.com/document/d/1Lw5KF7b0jHNQQm6S7zIqmt4M7APIYljP/edit?usp=drivesdk&ouid=111472610005803117094&rtpof=true&sd=true
