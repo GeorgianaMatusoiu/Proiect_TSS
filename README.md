@@ -2,7 +2,11 @@ Proiect la Testarea Sistemelor Software - Testare unitară în JavaScript
 
 Membri (grupa 311): Cazacu Brîndușa-Alexandra, Dumitrașcu Elena-Alina, Mătușoiu Gheorghița-Georgiana, Vladu Daniela-Gabriela
 
-Link documentație: https://docs.google.com/document/d/1Lw5KF7b0jHNQQm6S7zIqmt4M7APIYljP/edit?usp=drivesdk&ouid=111472610005803117094&rtpof=true&sd=true
+Link documentație: https://docs.google.com/document/d/1m7hBewVIJ_dbzdLsqRwtl7vwmdM5iszS/edit?usp=sharing&ouid=108033367188260281558&rtpof=true&sd=true
+
+Link Raport AI: https://docs.google.com/document/d/1DfagmAGx--XmkILqBmw_fn0wcgWcs6kj/edit?usp=sharing&ouid=108033367188260281558&rtpof=true&sd=true
+
+Link prezentare: https://docs.google.com/presentation/d/1ufeFPJLAvtWvgjMtPADj1BM0XOf5oFwZ/edit?usp=sharing&ouid=108033367188260281558&rtpof=true&sd=true
 
 Link graf - funcția "rezolvare": https://drive.google.com/file/d/1akzg6PcfwtzWPnlGfW0buxuqBFLuAQq-/view?usp=drive_link
 
