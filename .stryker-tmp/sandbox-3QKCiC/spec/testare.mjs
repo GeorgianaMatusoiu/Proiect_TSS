@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { expect } from "chai";
 import Ex1 from "../exercitii-test.mjs";
 
@@ -73,18 +74,22 @@ describe("Testare structurala", function () {
     it("Caz adevarat si caz fals - valid vs invalid -conditie C3 (r<0)", function () {
         expect(myObj.rezolvare(4, 1, 7)).to.deep.equal([9, 2]);
         expect(myObj.rezolvare(4, -1, 8)).to.deep.equal(["input invalid", null]); 
+        // expect(myObj.rezolvare(4, 1, 7)).to.deep.equal([9, 2]); 
+        // expect(myObj.rezolvare(4, -1, 8)).to.deep.equal(["input invalid", null]); 
 
     });
 
     it("Caz adevarat si caz fals - valid vs invalid -conditie C4 ((d - r) % (c - 1) !== 0)", function () {
         expect(myObj.rezolvare(4, 1, 7)).to.deep.equal([9, 2]);
         expect(myObj.rezolvare(4, 1, 8)).to.deep.equal(["input invalid", null]); 
+        // expect(myObj.rezolvare(4, 1, 7)).to.deep.equal([9, 2]);
 
     });
 
     it("Caz adevarat si caz fals - valid vs invalid -conditie C5 ( d/c <= r)", function () {
         expect(myObj.rezolvare(4, 1, 7)).to.deep.equal([9, 2]);
         expect(myObj.rezolvare(3, 6, 8)).to.deep.equal(["input invalid", null]); 
+        // expect(myObj.rezolvare(4, 1, 7)).to.deep.equal([9, 2]); 
     });
 
     //  Acoperire pe instructiuni (statement coverage)

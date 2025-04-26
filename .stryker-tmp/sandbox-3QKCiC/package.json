@@ -1,0 +1,20 @@
+{
+  "name": "proiect_tss",
+  "version": "1.0.0",
+  "main": "exercitii-test.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@stryker-mutator/core": "^8.7.1",
+    "@stryker-mutator/jest-runner": "^8.7.1",
+    "@stryker-mutator/mocha-runner": "^8.7.1",
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
